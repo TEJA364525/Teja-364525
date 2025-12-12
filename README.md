@@ -70,7 +70,7 @@ Simple CLI calculator for learning Python fundamentals.
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA364525&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-364525&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="left">
