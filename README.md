@@ -63,13 +63,19 @@ Simple CLI calculator for learning Python fundamentals.
 
 ---
 
-# # 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEJA364525&show_icons=true&theme=transparent)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TEJA364525&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Teja's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA364525&layout=compact&theme=transparent)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA364525&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TEJA364525&theme=transparent)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=TEJA364525&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
 ---
