@@ -8,7 +8,7 @@ I build AI systems, Telegram bots, CLI apps, and tools that automate real-world 
 
 ---
 
-🚀 About Me
+# 🚀 About Me
 
 🔧 Python Developer (Bots + CLI tools)
 
@@ -26,7 +26,7 @@ I build AI systems, Telegram bots, CLI apps, and tools that automate real-world 
 
 ---
 
-🧠 Skills
+# 🧠 Skills
 
 Python (Intermediate)
 
@@ -46,7 +46,7 @@ Basic Machine Learning
 
 ---
 
-🛠️ Projects
+# 🛠️ Projects
 
 🔹 Nexus-AI (Personal AI System)
 
@@ -63,18 +63,18 @@ Simple CLI calculator for learning Python fundamentals.
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEJA364525&show_icons=true&theme=tokyonight)
+![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEJA364525&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA364525&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA364525&layout=compact&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TEJA364525&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=TEJA364525&theme=transparent)
 
 
 ---
 
-📬 Contact Me
+# 📬 Contact Me
 
 📧 Email: tt8392892@gmail.com
 📄 Portfolio: View Portfolio
@@ -83,7 +83,7 @@ Simple CLI calculator for learning Python fundamentals.
 
 ---
 
-⭐ Support
+# ⭐ Support
 
 If you like my projects, please star ⭐ my repos and follow for updates!
 
