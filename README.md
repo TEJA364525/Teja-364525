@@ -63,7 +63,7 @@ Simple CLI calculator for learning Python fundamentals.
 
 ---
 
-## 📊 GitHub Stats
+# # 📊 GitHub Stats
 
 ![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEJA364525&show_icons=true&theme=transparent)
 
