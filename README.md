@@ -52,9 +52,6 @@ Simple CLI calculator for learning Python fundamentals.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJA364525&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=TEJA364525&theme=tokyonight" />
-</p>
 
 ---
 
